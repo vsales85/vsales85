@@ -14,8 +14,8 @@
   <img align="center" alt="Vsales-DJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
           
  </div>
- 
- 
+ <br>
+ <br> 
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-sales-de-oliveria-79474930/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </a>
