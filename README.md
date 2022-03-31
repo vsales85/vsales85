@@ -1,4 +1,4 @@
-<div align="center"> Hello I'm Victor Sales<center>
+<div align="center"> <h1>Hello I'm Victor Sales</h1><center>
 
 
 <div align="center">
