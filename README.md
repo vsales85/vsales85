@@ -1,5 +1,10 @@
+<div class="hero">
+  <h1>>Hello I'm Victor Sales</h1>
+  <h6>Background image with gradient</h6>
+</div>
+
+
 <div align="center"> <h1>Hello I'm Victor Sales</h1><center>
-<style><h1> { background-image: linear-gradiante(to rigth, white, blue;}</style>
   
 
 <div align="center">
