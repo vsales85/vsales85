@@ -1,5 +1,6 @@
 <div align="center"> <h1>Hello I'm Victor Sales</h1><center>
-
+<style><h1> { background-image: linear-gradiante(to rigth, white, blue;}</style>
+  
 
 <div align="center">
   <a href="https://github.com/vsales85">
