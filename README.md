@@ -1,6 +1,6 @@
 <div align="center"> <h1>Hello I'm Victor Sales</h1><center>
-  
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/vsales85">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vsales85&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
