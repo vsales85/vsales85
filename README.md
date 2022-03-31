@@ -1,8 +1,11 @@
 <div class="hero">
   <h1>>Hello I'm Victor Sales</h1>
-  <h6>Background image with gradient</h6>
 </div>
-
+.hero {
+  height: 100vh;
+  width: 100vw;
+  background: rgb(126,214,223);
+}
 
 <div align="center"> <h1>Hello I'm Victor Sales</h1><center>
   
