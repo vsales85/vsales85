@@ -4,19 +4,13 @@
 <div align="center">
   <a href="https://github.com/vsales85">
 
-
-<br>
-<br>
-
 <div align="center">
   <img align="center" alt="Vsales-py" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vsales-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vsales-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Vsales-DJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
- 
- <br>
- <br>
+
  
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-sales-de-oliveria-79474930/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
