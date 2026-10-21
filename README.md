@@ -3,7 +3,7 @@
   <p><em>IT & Systems Support | Full-Stack Developer & Homelab Enthusiast</em></p>
 
   <p>
-    <a href="https://github.com/vitorsalesoliveira" target="_blank">
+    <a href="https://github.com/O_SEU_USER_REAL" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/vitorsalesoliveira" target="_blank">
@@ -49,8 +49,8 @@
 
   <br>
 
-  <!-- Estatísticas do GitHub (Opcional, mas dá um visual profissional) -->
+  <!-- Estatísticas do GitHub (Lembre-se de alterar 'O_SEU_USER_REAL' para o seu nome de utilizador exato no GitHub) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vitorsalesoliveira&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=O_SEU_USER_REAL&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </p>
 </div>
